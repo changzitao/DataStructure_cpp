@@ -1,2 +1,2 @@
-# DataStructure_c-
-simple and easy
+# DataStructure_cpp
+easy and simple and slowly
